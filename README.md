@@ -1,5 +1,5 @@
 # OMedia
-
+omedia 1.0
 ![OMedia Preview](assets/README.png)
 
 OMedia is an innovative media management project designed to streamline the way you handle your media files. It focuses on providing an intuitive interface and efficient tools to organize, access, and preview media content with ease.
